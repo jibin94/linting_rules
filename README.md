@@ -28,4 +28,4 @@ linter:
     - annotate_overrides: true
 ````
 
-To analyze the code we need to run `dart analyzer` . in the terminal. This will list down all the warnings based on lint rules we have setup.
+To analyze the code we need to run `dart analyzer` in the terminal. This will list down all the warnings based on lint rules we have setup.
